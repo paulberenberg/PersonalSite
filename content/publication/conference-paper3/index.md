@@ -1,6 +1,6 @@
 +++
-title = "Regulatory Actions over the Business Cycle"
-date = 2021-04-24
+title = "Financial Regulatory Actions over the Cycle"
+date = 2020-06-16
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "Gonçalo Pina"]
@@ -23,7 +23,7 @@ publication = "Working Paper*"
 publication_short = "WP"
 
 # Abstract.
-abstract = "This paper studies intensity of financial regulation and provides evidence that it is partly driven by electoral cycles. I construct a new database of regulatory actions in the US from 2001 until 2018, covering 5,000 cases in 50 states. I then show that intensity in financial regulation is pro-cyclical. In boom periods it is consistently lower compared to bust periods. Exploiting exogenous variation in gubernatorial election dates across US states, I next show that this inherit cyclicality in financial regulation can be partly explained by electoral incentives. Regulatory intensity tends to increase by roughly 3 percentage points in the third and fourth prior to US state level elections. I do not find similar effects after the elections have taken place. Our results imply that electoral incentives are a main factor for intensity in financial regulation."
+abstract = ""
 # Digital Object Identifier (DOI)
 doi = ""
 

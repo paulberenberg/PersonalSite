@@ -31,6 +31,7 @@ weight = 70
 
 ### [Hertie School of Governance, Berlin](https://www.hertie-school.org)
 
++ TA, *Economics I*, Course of Leonardo Iacovone, Fall '19
 + Instructor, *Introduction to LaTeX for PhD Students*, PhD Level Workshop, May '18
 + TA, *International Economics*, Course of Franziska Bremus, Spring '18
 + TA, *Applied Economics*, Course of Henrik Enderlein, Fall '16

@@ -16,16 +16,17 @@ role = "PhD Candidate"
 organizations = [ { name = "Hertie School of Governance, Berlin", url = "www.hertie-school.org" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am currently a PhD candidate at the Hertie School of Governance. My research interests include Social Data Science, Financial Economics, and Political economy."
+bio = "I am currently a PhD candidate at the Hertie School of Governance. My research interests include International Finance/Macro, International Trade, Social Data Science, and Political Economy."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Financial Economics",
-  "Political Economy", 
-  "(Social) Data Science"
+  "International Finance/Macro",
+  "International Trade", 
+  "(Social) Data Science",
+  "Political Economy"
 ]
 
 # Organizational groups that you belong to (for People widget)

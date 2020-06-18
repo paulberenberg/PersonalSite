@@ -68,3 +68,8 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+    
+[params]
+     Description = "The personal website of Paul Berenberg-Gossler."
+
+
