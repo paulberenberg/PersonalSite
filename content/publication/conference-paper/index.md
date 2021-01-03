@@ -1,6 +1,6 @@
 +++
 title = "International Portfolio Investment Integration and Business Cycle Synchronization"
-date = 2020-06-01
+date = 2020-10-25
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
@@ -23,7 +23,7 @@ publication = "Working Paper*"
 publication_short = "WP"
 
 # Abstract.
-abstract = ""
+abstract = "This paper argues that the correlation of cross-border portfolio investment integration with business cycle synchronization is conditional on different types of shocks. Exploiting panel data on bilateral portfolio holdings from 29 advanced economies covering 17 years, I filter idiosyncratic and common shock drivers of synchronization. I show that portfolio investment and synchronization correlate negatively in response to common shocks, consistent with previous results and suggesting flight to safety effects. However, they correlate positively in response to idiosyncratic shocks, suggesting that output smoothing takes place. This result is robust to controlling for bank loan integration. The evidence suggests that  if we want to find remedies for asymmetric business cycles, we need to take asset specific effects into account."
 # Digital Object Identifier (DOI)
 doi = ""
 
@@ -51,7 +51,7 @@ projects = [""]
 slides = ""
 
 # Links (optional).
-#url_pdf = "papers/Berenberg-Gossler Paul Int Financial Integration and CoMovement - march 19.pdf"
+url_pdf = ""
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""

@@ -1,9 +1,9 @@
 +++
-title = "Elections decrease Financial Regulatory Activity: Evidence from Investment Adviser Disclosures"
-date = 2020-10-10
+title = "Trumps protektionistische Handelspolitik hat ihre Ziele verfehlt"
+date = 2020-12-10
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Gonçalo Pina"]
+authors = ["admin", "Geraldine Dany-Knedlik", "David Kläffling", "Claus Michelsen"]
 
 # Publication type.
 # Legend:
@@ -16,23 +16,23 @@ authors = ["admin", "Gonçalo Pina"]
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Working Paper*"
-publication_short = "WP"
+publication = "DIW Wochenbericht 50 / 2020, S. 960-969"
+publication_short = ""
 
 # Abstract.
-abstract = "This paper shows that elections decrease regulatory actions against misconduct in the financial industry. In the United States, regulation of financial misconduct is carried out by three types of regulators: federal, state, and self-regulatory. Most state-level financial regulators are directly appointed by state governors. We analyze a new database on regulatory actions covering 49 US states from 1990 until 2019, to assess whether state-level electoral incentives affect regulatory activity. Exploiting exogenous electoral cycles of US gubernatorial elections, we find causal evidence that state-level financial regulators reduce regulatory activity starting five months before gubernatorial election events. This slump occurs even earlier if elections are contested. Federal and self-regulatory regulators do not punish less in response to gubernatorial elections, suggesting a direct link between gubernatorial elections and state regulators. Using data on the average duration of preparation for each case, we show that there is a significant rush to finish regulatory actions up to five months prior to gubernatorial elections. We find no evidence for a catch-up effect after gubernatorial election events. These results underscore the persistence of electoral cycles in financial regulation."
+abstract = "Nach seiner Wahl hat Donald Trump recht schnell seiner angekündigten America-First-Strategie Taten folgen lassen. So standen aggressive Interventionen im Zentrum von Trumps Handelspolitik. Ihm ging es vor allem darum, Produktionsstätten und Arbeitsplätze, die ins Ausland verlagert wurden, wieder zurück in die USA zu holen und Handelsbilanzdefizite zu senken. Es zeigt sich aber, dass die zahlreichen handelspolitischen Interventionen nur begrenzt Spuren in den Handelsströmen mit den wichtigsten Partnern hinterlassen haben. Lediglich beim Handel mit China ging das Defizit kurzzeitig etwas zurück. Die 2018 eingeführten Importzölle auf chinesische Güter haben auch dazu geführt, dass das verarbeitende US-Gewerbe, das auf Importe aus China als Vorleistungen angewiesen ist, dadurch mit höheren Produktionskosten zu kämpfen hat. Auch für den neuen US-Präsidenten Joe Biden ist China der größte Konkurrent im Welthandel. Während Trump allerdings auf Alleingänge setzte, beabsichtigt Biden, internationale Allianzen zu suchen, um die Verhandlungsposition gegenüber China zu verbessern. Diese Chance sollte die Europäische Union rechtzeitig ergreifen."
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.18723/diw_wb:2020-50-5"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Policy", "Financial Fragmentation", "Financial Crises"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -51,7 +51,7 @@ projects = [""]
 slides = ""
 
 # Links (optional).
-url_pdf = "papers/polecondraft.pdf"
+url_pdf = "https://www.diw.de/documents/publikationen/73/diw_01.c.806508.de/20-50.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""

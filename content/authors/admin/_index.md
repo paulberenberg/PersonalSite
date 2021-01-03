@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate"
+role = "Research Associate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Hertie School of Governance, Berlin", url = "www.hertie-school.org" } ]
+organizations = [ { name = "German Institute for Economic Research (DIW)", url = "www.diw.de" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I am currently a PhD candidate at the Hertie School of Governance. My research interests include International Finance/Macro, International Trade, Social Data Science, and Political Economy."
@@ -35,8 +35,8 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Economics"
-  institution = "Hertie School of Governance, Berlin"
+  course = "Dr. rer. pol."
+  institution = "Hertie School (Berlin School of Economics), Berlin"
   year = 2020 
 
 [[education.courses]]
@@ -46,7 +46,7 @@ user_groups = []
 
 [[education.courses]]
   course = "MPP"
-  institution = "Hertie School of Governance, Berlin"
+  institution = "Hertie School, Berlin"
   year = 2015
 
 [[education.courses]]
@@ -81,6 +81,11 @@ user_groups = []
    icon_pack = "ai"
    link = "files/cv.pdf"
 
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.fr/citations?user=9J1kRKYAAAAJ&hl=en"
 +++
-I am a Phd Candidate at the Hertie School of Governance. In my research I mainly focus on the intersection of macroeconomics, finance, and political economy.
+Economist and data scientist specializing in international macroeconomics and finance.
 
+Currently, I am research associate at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin. 

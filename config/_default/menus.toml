@@ -35,3 +35,9 @@
   url = "#teaching"
   weight = 90
 
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 100
+
