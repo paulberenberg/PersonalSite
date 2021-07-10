@@ -23,9 +23,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "International Finance/Macro",
-  "International Trade", 
-  "(Social) Data Science",
+  "International Finance/Macro, Trade",
+  "Data Science (esp. machine learning)",
   "Political Economy"
 ]
 
@@ -35,9 +34,9 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Dr. rer. pol."
+  course = "PhD (Economics)"
   institution = "Hertie School (Berlin School of Economics), Berlin"
-  year = 2020 
+  year = 2021
 
 [[education.courses]]
   course = "MPA"
@@ -50,7 +49,7 @@ user_groups = []
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Economics"
+  course = "BSc (Economics)"
   institution = "University of Paris II - Panthéon-Assas, Paris"
   year = 2013
 
@@ -88,4 +87,4 @@ user_groups = []
 +++
 Economist and data scientist specializing in international macroeconomics and finance.
 
-Currently, I am research associate at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin. 
+Currently, I am a research associate at the Department for Forecasting and Economic Policy at the German Institute for Economic Research (DIW) in Berlin. 
